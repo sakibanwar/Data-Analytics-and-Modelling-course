@@ -5,18 +5,18 @@ The lecture Notes are based on [Békés, G., & Kézdi, G. (2021). Data analysis 
 
 ## Course Outline.
 
-| Week Number | Topic                                  |
-|-------------|----------------------------------------|
-| 1      | Introduction and Origins of Data       |
-| 2      | Preparing Data for Analysis            |
-| 3      | Exploratory Data Analysis              |
-| 4      | Comparison and Correlation             |
-| 5      | Generalising From Data                 |
-| 6      | Hypothesis Testing                     |
-| 7      | Simple Regression                      |
-| 8      | Complicated Patterns and Messy Data    |
-| 9      | Generalising Regression Results        |
-| 10     | Multiple Regression                    |
-| 11     | Modelling Probabilities                |
-| 12     | Regression using Python                |
-| 13     | Revision                               |
+| Week Number | Topic                                  | Material |
+|-------------|----------------------------------------|----------|
+| 1      | Introduction and Origins of Data       | [Lecture 1](Lecture%20Notes/AN7914%20L01.pdf) |
+| 2      | Preparing Data for Analysis            | [Lecture 2](Lecture%20Notes/AN7914%20L02.pdf) |
+| 3      | Exploratory Data Analysis              | [Lecture 3](Lecture%20Notes/AN7914%20L03.pdf) |
+| 4      | Comparison and Correlation             | [Lecture 4](Lecture%20Notes/AN7914%20L04.pdf) |
+| 5      | Generalising From Data                 | [Lecture 5](Lecture%20Notes/AN7914%20L05.pdf) |
+| 6      | Hypothesis Testing                     | [Lecture 6](Lecture%20Notes/AN7914%20L06.pdf) |
+| 7      | Simple Regression                      | [Lecture 7](Lecture%20Notes/AN7914%20L07.pdf) |
+| 8      | Complicated Patterns and Messy Data    | [Lecture 8](Lecture%20Notes/AN7914%20L08.pdf) |
+| 9      | Generalising Regression Results        | [Lecture 9](Lecture%20Notes/AN7914%20L09.pdf) |
+| 10     | Multiple Regression                    | [Lecture 10](Lecture%20Notes/AN7914%20L10.pdf) |
+| 11     | Modelling Probabilities                | [Lecture 11](Lecture%20Notes/AN7914%20L11.pdf) |
+| 12     | Regression using Python                | 
+| 13     | Revision                               | 
